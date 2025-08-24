@@ -1,0 +1,83 @@
+{
+  "sunset beach": {
+    "shot_ids": [
+      "03Q7WQ95",
+      "TUGP89IS",
+      "SVTYG97N",
+      "CIZI40JH",
+      "YB80KJM9",
+      "LEW03D44",
+      "EFLXABV3",
+      "NZE2U7YO",
+      "YCPVNRKF",
+      "DYO8QLEI"
+    ],
+    "count": 10
+  },
+  "mountain landscape": {
+    "shot_ids": [
+      "WAJ1VDIK",
+      "3Y95ESGS",
+      "UW4T3GYC",
+      "0ARUE30W",
+      "RZI6EFQK",
+      "PV0ADUG2",
+      "CWWNV70U",
+      "DQUPKQIG",
+      "5PY5U2H6",
+      "06WJV7IR"
+    ],
+    "count": 10
+  },
+  "city night": {
+    "shot_ids": [
+      "FNIHZMKQ",
+      "4UXF9ECU",
+      "78DSNF4J",
+      "6ER2BH9M",
+      "D439LJG0",
+      "KF42WHYW",
+      "G2YHFQWA",
+      "6NW6WX7F",
+      "4KOY11L2",
+      "2OS5HX9A"
+    ],
+    "count": 10
+  },
+  "forest path": {
+    "shot_ids": [
+      "J7I7DA1A",
+      "B7PX2LAM",
+      "KUHOUTWN",
+      "2X433GGM",
+      "4YT1HG7M",
+      "MLA3PMJD",
+      "87BB2K88",
+      "N1S7MQ5P",
+      "FN37L62S",
+      "TGUQS0LY"
+    ],
+    "count": 10
+  },
+  "ocean waves": {
+    "shot_ids": [
+      "2HW2PFWI",
+      "CIZI40JH",
+      "YB80KJM9",
+      "KNTDEIXD",
+      "9KPM6Z1M",
+      "DYO8QLEI",
+      "AZLHKK5D",
+      "DQYRFF4M",
+      "JV6DICA1",
+      "G1ROS59K"
+    ],
+    "count": 10
+  },
+  "_summary": {
+    "total_keywords_processed": 5,
+    "total_shot_ids_collected": 50,
+    "image_limit_used": 50,
+    "timestamp": "2025-08-25 01:20:15"
+  }
+}
